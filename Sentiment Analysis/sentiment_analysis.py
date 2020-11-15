@@ -144,9 +144,3 @@ plt.xlabel("Time")
 plt.ylabel("Mood")
 plt.plot(test_result_summed.sort_values('dateofpost'))
 plt.show()
-
-
-# Train model with 1.6 million tweets
-
-# Create video
-# Set up github
